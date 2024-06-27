@@ -1,2 +1,2 @@
 # indotoxic2024
-Dataset and Codes experimenting IndoToxic2024
+Dataset and code for IndoToxic2024
